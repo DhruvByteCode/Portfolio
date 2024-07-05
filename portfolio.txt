@@ -13,17 +13,13 @@ Contact
 /* Hero
 --------------------------------------------------
 
-Hi, I am Calvin,<br>Web Developer.
+Hi, I am Dhruv,<br>Web Developer.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
 Assumenda voluptates ad numquam, officiis accusamus similique 
 voluptate! Sint corrupti soluta, expedita dolores.
 
-03
-Years<br>Experience
 
-20+
-Projects<br>Completed
 
 /* About
 --------------------------------------------------
@@ -41,24 +37,7 @@ corporis facilis.
 
 Know More
 
-Technologies I've been working with:
 
-Backend
-
-Python
-PHP
-Node.js
-Firebase
-MongoDB
-MySQL
-
-Frontend
-HTML
-CSS/Sass
-JavaScript
-Bootstrap
-React
-Vue.js
 
 /* Qualification
 --------------------------------------------------
